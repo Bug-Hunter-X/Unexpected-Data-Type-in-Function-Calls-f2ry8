@@ -1,0 +1,1 @@
+Function calls with incorrect parameter types can lead to unexpected results or runtime errors. VBScript's type system is relatively loose, but passing the wrong type can still cause problems, particularly with functions expecting specific types like dates or objects.  For example, passing a string to a function that expects a number can cause a type mismatch error.
